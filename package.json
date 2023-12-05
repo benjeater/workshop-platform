@@ -1,0 +1,18 @@
+{
+  "name": "workshop-platform",
+  "version": "1.0.0",
+  "description": "My output for the tech test to build the next unicorn platform based on workshop planning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Ben Jeater",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
